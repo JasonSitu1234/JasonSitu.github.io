@@ -46,6 +46,8 @@ h1 {
 	background-color: #00b300;
 	color: #ffffff;	
 	margin:auto;
+	display:flex;
+	justify-content:center;
 }
 
 .checkout hover {
