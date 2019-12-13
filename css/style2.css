@@ -40,6 +40,17 @@ h1 {
 	font-family: 'Bree Serif', 'serif';
 	}
 
+.checkout{
+	padding: 25px;
+	text-decoration: none;
+	background-color: #00b300;
+	color: #ffffff;	
+}
+
+.checkout hover {
+	background-color:#4dff88;
+}
+
 #container {
 	margin: 0 auto;
 	max-width: 890px;
